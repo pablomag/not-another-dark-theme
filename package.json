@@ -6,8 +6,11 @@
   "author": {
     "name": "Vampaerr"
   },
-  "icon": "./themes/icon.png",
+  "icon": "themes/icon.png",
   "publisher": "Vampaerr",
+  "repository": {
+    "url": "https://github.com/pablomag/not-another-dark-theme"
+  },
   "engines": {
     "vscode": "^1.104.0"
   },
